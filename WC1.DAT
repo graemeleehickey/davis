@@ -1,0 +1,261 @@
+ 5-7  M Obese   Obese   Obese     8
+ 5-7  M Obese   Obese   Not_Ob.   1
+ 5-7  M Obese   Obese   Missing   0
+ 5-7  M Obese   Not_Ob. Obese     1
+ 5-7  M Obese   Not_Ob. Not_Ob.   0
+ 5-7  M Obese   Not_Ob. Missing   0
+ 5-7  M Obese   Missing Obese     0
+ 5-7  M Obese   Missing Not_Ob.   0
+ 5-7  M Obese   Missing Missing   5
+ 5-7  M Not_Ob. Obese   Obese     7
+ 5-7  M Not_Ob. Obese   Not_Ob.   3
+ 5-7  M Not_Ob. Obese   Missing   5
+ 5-7  M Not_Ob. Not_Ob. Obese     9
+ 5-7  M Not_Ob. Not_Ob. Not_Ob.  90
+ 5-7  M Not_Ob. Not_Ob. Missing  16
+ 5-7  M Not_Ob. Missing Obese     3
+ 5-7  M Not_Ob. Missing Not_Ob.   9
+ 5-7  M Not_Ob. Missing Missing  32
+ 5-7  M Missing Obese   Obese    13
+ 5-7  M Missing Obese   Not_Ob.   6
+ 5-7  M Missing Obese   Missing  11
+ 5-7  M Missing Not_Ob. Obese    18
+ 5-7  M Missing Not_Ob. Not_Ob. 129
+ 5-7  M Missing Not_Ob. Missing  33
+ 5-7  M Missing Missing Obese    24
+ 5-7  M Missing Missing Not_Ob.  70
+ 7-9  M Obese   Obese   Obese    20
+ 7-9  M Obese   Obese   Not_Ob.   7
+ 7-9  M Obese   Obese   Missing  11
+ 7-9  M Obese   Not_Ob. Obese     9
+ 7-9  M Obese   Not_Ob. Not_Ob.   8
+ 7-9  M Obese   Not_Ob. Missing   1
+ 7-9  M Obese   Missing Obese     3
+ 7-9  M Obese   Missing Not_Ob.   1
+ 7-9  M Obese   Missing Missing   7
+ 7-9  M Not_Ob. Obese   Obese     8
+ 7-9  M Not_Ob. Obese   Not_Ob.   8
+ 7-9  M Not_Ob. Obese   Missing   3
+ 7-9  M Not_Ob. Not_Ob. Obese    15
+ 7-9  M Not_Ob. Not_Ob. Not_Ob. 150
+ 7-9  M Not_Ob. Not_Ob. Missing  38
+ 7-9  M Not_Ob. Missing Obese     6
+ 7-9  M Not_Ob. Missing Not_Ob.  16
+ 7-9  M Not_Ob. Missing Missing  45
+ 7-9  M Missing Obese   Obese    13
+ 7-9  M Missing Obese   Not_Ob.   3
+ 7-9  M Missing Obese   Missing   4
+ 7-9  M Missing Not_Ob. Obese     2
+ 7-9  M Missing Not_Ob. Not_Ob.  42
+ 7-9  M Missing Not_Ob. Missing  33
+ 7-9  M Missing Missing Obese    14
+ 7-9  M Missing Missing Not_Ob.  55
+ 9-11 M Obese   Obese   Obese    25
+ 9-11 M Obese   Obese   Not_Ob.   9
+ 9-11 M Obese   Obese   Missing  14
+ 9-11 M Obese   Not_Ob. Obese     7
+ 9-11 M Obese   Not_Ob. Not_Ob.   7
+ 9-11 M Obese   Not_Ob. Missing   2
+ 9-11 M Obese   Missing Obese     3
+ 9-11 M Obese   Missing Not_Ob.   0
+ 9-11 M Obese   Missing Missing  17
+ 9-11 M Not_Ob. Obese   Obese    10
+ 9-11 M Not_Ob. Obese   Not_Ob.   8
+ 9-11 M Not_Ob. Obese   Missing   6
+ 9-11 M Not_Ob. Not_Ob. Obese    11
+ 9-11 M Not_Ob. Not_Ob. Not_Ob. 152
+ 9-11 M Not_Ob. Not_Ob. Missing  48
+ 9-11 M Not_Ob. Missing Obese     5
+ 9-11 M Not_Ob. Missing Not_Ob.  13
+ 9-11 M Not_Ob. Missing Missing  59
+ 9-11 M Missing Obese   Obese     3
+ 9-11 M Missing Obese   Not_Ob.   4
+ 9-11 M Missing Obese   Missing   9
+ 9-11 M Missing Not_Ob. Obese     5
+ 9-11 M Missing Not_Ob. Not_Ob.  36
+ 9-11 M Missing Not_Ob. Missing  31
+ 9-11 M Missing Missing Obese     9
+ 9-11 M Missing Missing Not_Ob.  40
+11-13 M Obese   Obese   Obese    16
+11-13 M Obese   Obese   Not_Ob.  11
+11-13 M Obese   Obese   Missing  13
+11-13 M Obese   Not_Ob. Obese     4
+11-13 M Obese   Not_Ob. Not_Ob.  13
+11-13 M Obese   Not_Ob. Missing   4
+11-13 M Obese   Missing Obese     4
+11-13 M Obese   Missing Not_Ob.   1
+11-13 M Obese   Missing Missing  24
+11-13 M Not_Ob. Obese   Obese     3
+11-13 M Not_Ob. Obese   Not_Ob.   8
+11-13 M Not_Ob. Obese   Missing   4
+11-13 M Not_Ob. Not_Ob. Obese     7
+11-13 M Not_Ob. Not_Ob. Not_Ob. 119
+11-13 M Not_Ob. Not_Ob. Missing  42
+11-13 M Not_Ob. Missing Obese     2
+11-13 M Not_Ob. Missing Not_Ob.  14
+11-13 M Not_Ob. Missing Missing  82
+11-13 M Missing Obese   Obese     1
+11-13 M Missing Obese   Not_Ob.   3
+11-13 M Missing Obese   Missing   6
+11-13 M Missing Not_Ob. Obese     3
+11-13 M Missing Not_Ob. Not_Ob.  18
+11-13 M Missing Not_Ob. Missing  23
+11-13 M Missing Missing Obese    14
+11-13 M Missing Missing Not_Ob.  37
+13-15 M Obese   Obese   Obese    15
+13-15 M Obese   Obese   Not_Ob.   6
+13-15 M Obese   Obese   Missing  12
+13-15 M Obese   Not_Ob. Obese     0
+13-15 M Obese   Not_Ob. Not_Ob.   8
+13-15 M Obese   Not_Ob. Missing   8
+13-15 M Obese   Missing Obese     1
+13-15 M Obese   Missing Not_Ob.   0
+13-15 M Obese   Missing Missing  23
+13-15 M Not_Ob. Obese   Obese     7
+13-15 M Not_Ob. Obese   Not_Ob.   2
+13-15 M Not_Ob. Obese   Missing   9
+13-15 M Not_Ob. Not_Ob. Obese     4
+13-15 M Not_Ob. Not_Ob. Not_Ob. 101
+13-15 M Not_Ob. Not_Ob. Missing  82
+13-15 M Not_Ob. Missing Obese     1
+13-15 M Not_Ob. Missing Not_Ob.   6
+13-15 M Not_Ob. Missing Missing  95
+13-15 M Missing Obese   Obese     2
+13-15 M Missing Obese   Not_Ob.   2
+13-15 M Missing Obese   Missing  12
+13-15 M Missing Not_Ob. Obese     1
+13-15 M Missing Not_Ob. Not_Ob.  13
+13-15 M Missing Not_Ob. Missing  34
+13-15 M Missing Missing Obese     3
+13-15 M Missing Missing Not_Ob.  15
+ 5-7  F Obese   Obese   Obese     8
+ 5-7  F Obese   Obese   Not_Ob.   1
+ 5-7  F Obese   Obese   Missing   4
+ 5-7  F Obese   Not_Ob. Obese     2
+ 5-7  F Obese   Not_Ob. Not_Ob.   2
+ 5-7  F Obese   Not_Ob. Missing   0
+ 5-7  F Obese   Missing Obese     1
+ 5-7  F Obese   Missing Not_Ob.   0
+ 5-7  F Obese   Missing Missing   5
+ 5-7  F Not_Ob. Obese   Obese     4
+ 5-7  F Not_Ob. Obese   Not_Ob.   2
+ 5-7  F Not_Ob. Obese   Missing   0
+ 5-7  F Not_Ob. Not_Ob. Obese     8
+ 5-7  F Not_Ob. Not_Ob. Not_Ob.  75
+ 5-7  F Not_Ob. Not_Ob. Missing  20
+ 5-7  F Not_Ob. Missing Obese     2
+ 5-7  F Not_Ob. Missing Not_Ob.   7
+ 5-7  F Not_Ob. Missing Missing  23
+ 5-7  F Missing Obese   Obese    24
+ 5-7  F Missing Obese   Not_Ob.   7
+ 5-7  F Missing Obese   Missing   5
+ 5-7  F Missing Not_Ob. Obese    22
+ 5-7  F Missing Not_Ob. Not_Ob. 109
+ 5-7  F Missing Not_Ob. Missing  27
+ 5-7  F Missing Missing Obese    19
+ 5-7  F Missing Missing Not_Ob.  65
+ 7-9  F Obese   Obese   Obese    21
+ 7-9  F Obese   Obese   Not_Ob.   6
+ 7-9  F Obese   Obese   Missing  11
+ 7-9  F Obese   Not_Ob. Obese     6
+ 7-9  F Obese   Not_Ob. Not_Ob.   2
+ 7-9  F Obese   Not_Ob. Missing   1
+ 7-9  F Obese   Missing Obese     4
+ 7-9  F Obese   Missing Not_Ob.   0
+ 7-9  F Obese   Missing Missing   7
+ 7-9  F Not_Ob. Obese   Obese    19
+ 7-9  F Not_Ob. Obese   Not_Ob.  13
+ 7-9  F Not_Ob. Obese   Missing   3
+ 7-9  F Not_Ob. Not_Ob. Obese    14
+ 7-9  F Not_Ob. Not_Ob. Not_Ob. 154
+ 7-9  F Not_Ob. Not_Ob. Missing  25
+ 7-9  F Not_Ob. Missing Obese     3
+ 7-9  F Not_Ob. Missing Not_Ob.  16
+ 7-9  F Not_Ob. Missing Missing  47
+ 7-9  F Missing Obese   Obese     8
+ 7-9  F Missing Obese   Not_Ob.   1
+ 7-9  F Missing Obese   Missing   5
+ 7-9  F Missing Not_Ob. Obese     4
+ 7-9  F Missing Not_Ob. Not_Ob.  47
+ 7-9  F Missing Not_Ob. Missing  23
+ 7-9  F Missing Missing Obese    13
+ 7-9  F Missing Missing Not_Ob.  39
+ 9-11 F Obese   Obese   Obese    27
+ 9-11 F Obese   Obese   Not_Ob.   8
+ 9-11 F Obese   Obese   Missing  17
+ 9-11 F Obese   Not_Ob. Obese     0
+ 9-11 F Obese   Not_Ob. Not_Ob.  12
+ 9-11 F Obese   Not_Ob. Missing   7
+ 9-11 F Obese   Missing Obese     4
+ 9-11 F Obese   Missing Not_Ob.   1
+ 9-11 F Obese   Missing Missing  16
+ 9-11 F Not_Ob. Obese   Obese     8
+ 9-11 F Not_Ob. Obese   Not_Ob.  10
+ 9-11 F Not_Ob. Obese   Missing   0
+ 9-11 F Not_Ob. Not_Ob. Obese     6
+ 9-11 F Not_Ob. Not_Ob. Not_Ob. 148
+ 9-11 F Not_Ob. Not_Ob. Missing  36
+ 9-11 F Not_Ob. Missing Obese     1
+ 9-11 F Not_Ob. Missing Not_Ob.   8
+ 9-11 F Not_Ob. Missing Missing  53
+ 9-11 F Missing Obese   Obese    13
+ 9-11 F Missing Obese   Not_Ob.   7
+ 9-11 F Missing Obese   Missing   9
+ 9-11 F Missing Not_Ob. Obese     6
+ 9-11 F Missing Not_Ob. Not_Ob.  39
+ 9-11 F Missing Not_Ob. Missing  25
+ 9-11 F Missing Missing Obese     8
+ 9-11 F Missing Missing Not_Ob.  23
+11-13 F Obese   Obese   Obese    14
+11-13 F Obese   Obese   Not_Ob.   7
+11-13 F Obese   Obese   Missing  13
+11-13 F Obese   Not_Ob. Obese     2
+11-13 F Obese   Not_Ob. Not_Ob.   6
+11-13 F Obese   Not_Ob. Missing   4
+11-13 F Obese   Missing Obese     6
+11-13 F Obese   Missing Not_Ob.   2
+11-13 F Obese   Missing Missing  37
+11-13 F Not_Ob. Obese   Obese     9
+11-13 F Not_Ob. Obese   Not_Ob.   7
+11-13 F Not_Ob. Obese   Missing   9
+11-13 F Not_Ob. Not_Ob. Obese     8
+11-13 F Not_Ob. Not_Ob. Not_Ob. 129
+11-13 F Not_Ob. Not_Ob. Missing  36
+11-13 F Not_Ob. Missing Obese     4
+11-13 F Not_Ob. Missing Not_Ob.  31
+11-13 F Not_Ob. Missing Missing  58
+11-13 F Missing Obese   Obese     2
+11-13 F Missing Obese   Not_Ob.   2
+11-13 F Missing Obese   Missing   1
+11-13 F Missing Not_Ob. Obese     1
+11-13 F Missing Not_Ob. Not_Ob.  19
+11-13 F Missing Not_Ob. Missing  21
+11-13 F Missing Missing Obese    10
+11-13 F Missing Missing Not_Ob.  23
+13-15 F Obese   Obese   Obese    15
+13-15 F Obese   Obese   Not_Ob.   6
+13-15 F Obese   Obese   Missing  23
+13-15 F Obese   Not_Ob. Obese     0
+13-15 F Obese   Not_Ob. Not_Ob.   6
+13-15 F Obese   Not_Ob. Missing   6
+13-15 F Obese   Missing Obese     1
+13-15 F Obese   Missing Not_Ob.   0
+13-15 F Obese   Missing Missing  32
+13-15 F Not_Ob. Obese   Obese     3
+13-15 F Not_Ob. Obese   Not_Ob.   5
+13-15 F Not_Ob. Obese   Missing  15
+13-15 F Not_Ob. Not_Ob. Obese     9
+13-15 F Not_Ob. Not_Ob. Not_Ob.  91
+13-15 F Not_Ob. Not_Ob. Missing  83
+13-15 F Not_Ob. Missing Obese     0
+13-15 F Not_Ob. Missing Not_Ob.   5
+13-15 F Not_Ob. Missing Missing  89
+13-15 F Missing Obese   Obese     3
+13-15 F Missing Obese   Not_Ob.   2
+13-15 F Missing Obese   Missing  15
+13-15 F Missing Not_Ob. Obese     1
+13-15 F Missing Not_Ob. Not_Ob.  11
+13-15 F Missing Not_Ob. Missing  43
+13-15 F Missing Missing Obese     5
+13-15 F Missing Missing Not_Ob.  14
+

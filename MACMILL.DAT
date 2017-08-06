@@ -1,0 +1,17 @@
+neg neg neg neg 509
+neg neg neg pos   4
+neg neg pos neg  17
+neg neg pos pos   3
+neg pos neg neg  13
+neg pos neg pos   8
+neg pos pos neg   0
+neg pos pos pos   8
+pos neg neg neg  14
+pos neg neg pos   1
+pos neg pos neg  17
+pos neg pos pos   9
+pos pos neg neg   7
+pos pos neg pos   4
+pos pos pos neg   9
+pos pos pos pos 170
+
