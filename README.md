@@ -1,6 +1,6 @@
 # Statistical Methods for the Analysis of Repeated Measurements
 
-Data from the book
+Data and supporting material from the book
     
 > Davis CS. *Statistical Methods for the Analysis of Repeated Measurements*. 2002; Springer: New York.
 
